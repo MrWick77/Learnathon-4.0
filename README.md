@@ -5,3 +5,5 @@ Team Member 3-Sushree Sangita Das
 Team Member 4- Aditya Roshan Das
 Youtube Link- https://youtu.be/xXHIWyooSEg
 Public host link - https://fraud-detection-charts.vercel.app/
+
+In the Findings the predicted Fraud_index and likelihood is determined using four models and in the Metrics graphs and evaluation in testing is present
