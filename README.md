@@ -14,7 +14,7 @@ Aditya Roshan Das – 22CSEAIML007
 🔗 Project Links
 YouTube Video (Dashboard Explanation): https://youtu.be/xXHIWyooSEg
 
-Public Hosted Dashboard (Vercel): https://fraud-detection-charts.vercel.app/
+Public Hosted Model Summary (Vercel): https://fraud-detection-charts.vercel.app/
 
 📁 Project Contents Overview
 Findings Folder:
