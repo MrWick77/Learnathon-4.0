@@ -18,14 +18,15 @@ Public Hosted Dashboard (Vercel): https://fraud-detection-charts.vercel.app/
 
 📁 Project Contents Overview
 Findings Folder:
-Contains predicted Fraud_Ind values and corresponding fraud likelihood percentages, generated using four machine learning models: XGBoost, Random Forest, Decision Tree, and AdaBoost.
+Contains the final fraud predictions along with likelihood percentages.
+If likelihood > 50%, it is labeled as Fraud ('Y'); otherwise, Not Fraud ('N').
+Predictions were generated using four models: XGBoost, Random Forest, Decision Tree, and AdaBoost.
 
 Metrics Folder:
-Includes evaluation results, performance graphs, and model comparisons on test data to assess accuracy, precision, recall, and F1-score.
+Includes model evaluation results with accuracy, precision, recall, F1-score, and visual performance graphs on the test dataset.
 
 Power BI Dashboard:
-The visual analytics dashboard (file: Team MBA6 4_4.pbix) can be opened using Microsoft Power BI. It presents fraud distribution insights, prediction results, and model performance.
+The dashboard file (Team MBA6 4_4.pbix) presents visual analysis of fraud likelihood, model predictions, and overall insights. It can be opened using Microsoft Power BI.
 
 Presentation (PDF):
-The complete explanation of the problem, dataset, approach, models used, results, and conclusions is documented in the provided presentation in PDF format.
-
+A comprehensive explanation of the problem statement, data handling, modeling approach, evaluation, and findings is included in the presentation PDF.
